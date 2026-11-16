@@ -1,0 +1,9 @@
+config,warp_err,trail_diff,ghost%
+input video (reference),0.00099,-,-
+baseline,0.00288,0.0,0.0
+hold 1.0,0.00286,0.28,0.2
+hold 2.0,0.00284,0.52,0.9
+hold 3.0,0.00285,0.77,1.6
+blend a=0.6,0.00243,6.27,15.9
+blend a=0.4,0.00257,10.95,28.2
+blend a=0.25,0.00289,15.88,36.5

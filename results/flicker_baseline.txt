@@ -1,0 +1,5 @@
+data/still.mov: 144 frames, 640px wide
+threshold  4: raw input   2.04% | cartoon   3.71% of pixels change
+threshold  8: raw input   0.65% | cartoon   2.23% of pixels change
+threshold 16: raw input   0.14% | cartoon   1.38% of pixels change
+outline pixels that blink on/off between frames: 2.5%
